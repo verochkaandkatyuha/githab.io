@@ -5,3 +5,5 @@ $$a_{10}^{20}$$
 $$ T = 2\pi\sqrt{\frac{m}{k}} $$
 
 $$ \eta= \frac{A_\text{за цикл}}{Q_\text{нагр}} $$
+
+$$ F = k\frac{\mid q{_1}\mid\mid q{_2} \mid}{r^2} $$
