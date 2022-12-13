@@ -8,18 +8,25 @@ $$ \color{Purple} \eta= \frac{A_\text{за цикл}}{Q_\text{нагр}} $$
 
 $$ \color{RoyalBlue} F = k\frac{\mid q{_1}\mid\mid q{_2} \mid}{r^2} $$
 
+![lagrida_latex_editor (10)](https://user-images.githubusercontent.com/114473055/200516200-dab8f541-f9b1-449a-8800-faa502e18ac5.png)
+![гирлянда](https://user-images.githubusercontent.com/114473055/207257894-5bf6197a-355e-42d4-b3c6-aab87254af38.png)
+
+![гирлянда1](https://user-images.githubusercontent.com/114473055/207258783-65e13e5c-9aff-46e5-957f-fe910d94b765.png)
 <style>
 .nav div {
     display: inline-block;
 }
 </style>
-![lagrida_latex_editor (10)](https://user-images.githubusercontent.com/114473055/200516200-dab8f541-f9b1-449a-8800-faa502e18ac5.png)
-![гирлянда](https://user-images.githubusercontent.com/114473055/207257894-5bf6197a-355e-42d4-b3c6-aab87254af38.png)
-
-![гирлянда1](https://user-images.githubusercontent.com/114473055/207258783-65e13e5c-9aff-46e5-957f-fe910d94b765.png)
+<div class="nav">
+<div>
 ![мем](https://user-images.githubusercontent.com/114473055/207265926-692d7b28-c519-4ce4-8511-14ec23a4a9c2.jpg)
-
-
+<style>
+.nav div {
+    display: inline-block;
+}
+</style>
+</div>
+	<div>
 <!--Dayspedia.com widget--><div class="DPAC" cityid="5720" lang="ru" id="dayspedia_widget_1c5fe97530ed9df2" host="https://dayspedia.com" nightsign="true" sun="false" style="background-image: url(&quot;https://cdn.dayspedia.com/img/widgets/bg-2.png&quot;);">
 	<style media="screen" id="DPACstyles">
 				/*COMMON*/
@@ -85,3 +92,4 @@ $$ \color{RoyalBlue} F = k\frac{\mid q{_1}\mid\mid q{_2} \mid}{r^2} $$
 	</script>
 <!--/DPAC-->
 </div><!--Dayspedia.com widget ENDS-->
+</div>
