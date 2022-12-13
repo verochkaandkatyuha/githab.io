@@ -19,7 +19,7 @@ $$ \color{RoyalBlue} F = k\frac{\mid q{_1}\mid\mid q{_2} \mid}{r^2} $$
 </style>
 <div class="nav">
 <div>
-![мем](https://<img src="мем.jpg" />)
+<img src="мем.jpg" />)
 </div>
 	<div>
 <!--Dayspedia.com widget--><div class="DPAC" cityid="5720" lang="ru" id="dayspedia_widget_1c5fe97530ed9df2" host="https://dayspedia.com" nightsign="true" sun="false" style="background-image: url(&quot;https://cdn.dayspedia.com/img/widgets/bg-2.png&quot;);">
